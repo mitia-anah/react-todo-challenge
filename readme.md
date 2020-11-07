@@ -4,7 +4,7 @@ Challenge: Create a todo app following given designs, and use React to handle th
 
 ![image](./assets/todo1.png)
 ![image](./assets/todo2.png)
-![image](./assets/todo2.png)
+![image](./assets/todo3.png)
 
 -   User story: I can add a new task
 -   User story: I can complete a task
